@@ -1,6 +1,6 @@
 {
-	"host": "kyuzo.aternos.host",
-	"port": "39962",
+	"host": "kyuzo.aternos.host:39962",
+	"port": "",
 	"username": "avtofermer",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
